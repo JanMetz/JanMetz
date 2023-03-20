@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JanMetz
-- 👀 I’m interested in finding a part-time job. Especially intrested in embedded and Python backend
-- 🌱 I’m currently learning SQL and graphics management in C++
-- 💞️ I’m looking to collaborate on an open-source project to gain some experience
+- 🌱 I’m currently learning Cryptographic algorithms and Mobile Developement using Kotlin
+- 💞️ I’m looking to collaborate on an open-source project wrtitten in C++, Python, Java or Kotlin
 - 📫 How to reach me: jan.metzler@outlook.com
 
 <!---
