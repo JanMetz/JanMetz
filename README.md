@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanMetz
-- 🌱 I’m currently learning Cryptographic algorithms and Mobile Developement using Kotlin
-- 💞️ I’m looking to collaborate on an open-source project wrtitten in C++, Python, Java or Kotlin
-- 📫 How to reach me: jan.metzler@outlook.com
+- 🌱 I’m currently learning handling huge ammounts of data using Google Cloud
+- 💞️ I’m looking to collaborate on an open-source project wrtitten in C++, Python or Java
+- 📫 Reach me at jan.metzler@outlook.com
 
 <!---
 JanMetz/JanMetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
