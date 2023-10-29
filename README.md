@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JanMetz
-- 🌱 I’m currently learning handling huge ammounts of data using Google Cloud
+- 🌱 I’m currently learning about handling huge ammounts of data using Google Cloud
 - 💞️ I’m looking to collaborate on an open-source project wrtitten in C++, Python or Java
 - 📫 Reach me at jan.metzler@outlook.com
 
